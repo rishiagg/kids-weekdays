@@ -21,5 +21,11 @@ A colorful, interactive, touch-friendly web game designed to help young children
 ## 📱 How to Play
 Open in any browser:
 ```
-https://rishicps.github.io/kids-weekdays/
+https://rishiagg.github.io/kids-weekdays/
 ```
+
+This is served from `rishiagg/kids-weekdays` using GitHub Pages (`main`, repository root).
+
+To play locally, clone this repository and run `python serve.py`, or open
+`index.html` directly in your browser. The game code uses local assets and browser
+audio; it does not need the former GitHub account.
